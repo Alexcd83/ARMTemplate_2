@@ -1,18 +1,27 @@
 {
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
-    "parameters": {
-        "connections_powerbi_name": {
-            "value": null
-        },
-        "workflows_MailingLA_name": {
-            "value": null
-        },
-        "connections_office365_name": {
-            "value": null
-        },
-        "connections_sharepointonline_name": {
-            "value": null
-        }
+  "parameters": {
+    "connections_powerbi_name": {
+      "value": null
+    },
+    "workflows_MailingLA_name": {
+      "value": null
+    },
+    "connections_office365_name": {
+      "value": null
+    },
+    "connections_sharepointonline_name": {
+      "value": null
+    },
+    "subscr": {
+      "value": "d94b0629-8c8b-4f9b-8c4a-acb638e36ad4"
+    },
+    "location": {
+      "value": "westus2"
+    },
+    "grname": {
+      "value": "TM4"
     }
+  }
 }
