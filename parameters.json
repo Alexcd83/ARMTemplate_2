@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
   "parameters": {
     "connections_powerbi_name": {
-      "value": null
+      "value": "connections_powerbi_name"
     },
     "workflows_MailingLA_name": {
-      "value": null
+      "value": "workflows_MailingLA_name"
     },
     "connections_office365_name": {
-      "value": null
+      "value": "connections_office365_name"
     },
     "connections_sharepointonline_name": {
-      "value": null
+      "value": "connections_sharepointonline_name"
     },
     "subscr": {
       "value": "d94b0629-8c8b-4f9b-8c4a-acb638e36ad4"
