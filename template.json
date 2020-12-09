@@ -41,7 +41,6 @@
         "customParameterValues": {},
         }
       }
-    },
     {
       "type": "Microsoft.Web/connections",
       "apiVersion": "2016-06-01",
@@ -53,7 +52,6 @@
         "customParameterValues": {},
         }
       }
-    },
     {
       "type": "Microsoft.Web/connections",
       "apiVersion": "2016-06-01",
@@ -65,7 +63,6 @@
         "customParameterValues": {},
         }
       }
-    },
     {
       "type": "Microsoft.Logic/workflows",
       "apiVersion": "2017-07-01",
