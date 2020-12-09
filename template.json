@@ -40,7 +40,8 @@
         "displayName": "semioys@msteamsappaccess.onmicrosoft.com",
         "customParameterValues": {},
         }
-      }
+      },
+      {
       "type": "Microsoft.Web/connections",
       "apiVersion": "2016-06-01",
       "name": "[parameters('connections_powerbi_name')]",
@@ -50,7 +51,7 @@
         "displayName": "semioys@msteamsappaccess.onmicrosoft.com",
         "customParameterValues": {},
         }
-      }
+      },
     {
       "type": "Microsoft.Web/connections",
       "apiVersion": "2016-06-01",
