@@ -41,7 +41,6 @@
         "customParameterValues": {},
         }
       }
-    {
       "type": "Microsoft.Web/connections",
       "apiVersion": "2016-06-01",
       "name": "[parameters('connections_powerbi_name')]",
